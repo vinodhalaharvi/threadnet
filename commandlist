@@ -1,0 +1,3 @@
+ssh localhost "hostname -i"
+ping -c 1 localhost
+whois vinodhalaharvi.com
